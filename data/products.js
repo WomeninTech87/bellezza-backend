@@ -6,7 +6,7 @@ const products = [
     name: "Bellezza 96-Piece DIY Nail Kit",
     price: 49,
     category: "Press-On Kits",
-   imageUrl: "https://your-image-link.jpg",
+imageUrl: "https://cdn.shopify.com/s/files/1/0000/0000/products/bellezza-kit.jpg",
     badge: "Best Seller",
   },
   {
